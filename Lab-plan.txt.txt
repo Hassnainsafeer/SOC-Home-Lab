@@ -7,3 +7,6 @@ Attacker: Kali Linux (Installed)
 Victim 1: Window 10 (Installed)
 Victim 2: Metasploitable (Installed)
 Next Goal: Configure Wazuh for SOC monitoring
+
+
+Status: Downloading Ubuntu 22.04.5 LTS ISO for SIEM Manager.
