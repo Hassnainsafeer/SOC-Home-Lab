@@ -1,0 +1,9 @@
+Starting my SOC Home Lab with Defronix Course. Target: Threat Detection and Analysis
+
+
+Lab Setup Status:
+
+Attacker: Kali Linux (Installed)
+Victim 1: Window 10 (Installed)
+Victim 2: Metasploitable (Installed)
+Next Goal: Configure Wazuh for SOC monitoring
