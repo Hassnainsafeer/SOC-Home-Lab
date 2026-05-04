@@ -10,3 +10,28 @@ Next Goal: Configure Wazuh for SOC monitoring
 
 
 Status: Downloading Ubuntu 22.04.5 LTS ISO for SIEM Manager.
+
+
+
+Updated Lab Status:
+SIEM Manager: Ubuntu 22.04 LTS (Installed)
+
+SOC Platform: Wazuh Manager v4.10.3 (Installation in progress)
+
+Current Activity: Deploying Wazuh Indexer, Server, and Dashboard using the all-in-one installation script.
+
+Technical Implementation Details:
+Memory Allocated: 4GB RAM (Minimal Installation)
+
+CPU Cores: 2 Cores
+
+Security Integration: Planned YARA integration for real-time malware detection on endpoints.
+
+Immediate Next Steps:
+Save Wazuh admin credentials after installation finish.
+
+Access Wazuh Dashboard via browser using Ubuntu IP.
+
+Deploy Wazuh Agents on Victim 1 (Windows 10) and Victim 2 (Metasploitable).
+
+Configure YARA rules for automated threat scanning.
